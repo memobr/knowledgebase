@@ -1,0 +1,12 @@
+{
+  "name": "memobr/knowledgebase",
+  "description": "Yii2 Knowledge Base widget",
+  "keywords": ["yii2", "knowledge base"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "memobr\\knowledgebase\\": "src"
+    }
+  }
+}
